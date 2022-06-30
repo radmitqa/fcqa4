@@ -1,0 +1,43 @@
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element found with locator: div[class='site_container'] img[alt='Fat Cat QA - Automation by the standard.'] and  locatorType: css
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element found with locator: ul[class='navPages nav navbar-nav'] li[class='moduleMenu active'] span[class='txt-container'] and  locatorType: css
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element found with locator: //ul[@class='navPages nav navbar-nav']//span[@class='txt-container'][normalize-space()='Services'] and  locatorType: xpath
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element found with locator: //*[@id="top-menu"]/ul[1]/li[3]/a/span and  locatorType: xpath
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element found with locator: div[id='websiteHeader'] li:nth-child(4) a:nth-child(1) span:nth-child(1) and  locatorType: css
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element found with locator: //*[@id="top-menu"]/ul[1]/li[5]/a/span and  locatorType: xpath
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:33 PM - SamplePage - INFO: Element found with locator: //*[@id="top-menu"]/ul[1]/li[5]/a/span and  locatorType: xpath
+06/30/2022 12:01:33 PM - SamplePage - INFO: Clicked on element with locator: //*[@id="top-menu"]/ul[1]/li[5]/a/span locatorType: xpath
+06/30/2022 12:01:36 PM - SamplePage - INFO: Element found with locator: //*[contains(text(), "About the sample project")] and  locatorType: xpath
+06/30/2022 12:01:36 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:36 PM - SamplePage - INFO: Element found with locator: //*[contains(text(), "Sample solution for the fatcatqa.com website")] and  locatorType: xpath
+06/30/2022 12:01:36 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:36 PM - SamplePage - INFO: Element found with locator: //*[contains(text(), "This is the sample of QA automation solution project")] and  locatorType: xpath
+06/30/2022 12:01:36 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:36 PM - SamplePage - INFO: Element found with locator: //img[contains(@class, "imageWidth100")] and  locatorType: xpath
+06/30/2022 12:01:36 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //*[contains(text(), "The architecture and the structure of the project is")] and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //*[contains(text(), "The Getting Started document in the project will provide")] and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //*[contains(text(), "Read More")] and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //span[contains(@class, "footer_name")] and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //*[contains(text(), "Copyright © 2022 All rights reserved")] and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //ul[contains(@class, "hidden-xs")]/li[1]/a/span and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //ul[contains(@class, "hidden-xs")]/li[2]/a/span and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //ul[contains(@class, "hidden-xs")]/li[3]/a/span and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //ul[contains(@class, "hidden-xs")]/li[4]/a/span and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element found with locator: //*[@id="gotoTop"]/i and  locatorType: xpath
+06/30/2022 12:01:38 PM - SamplePage - INFO: Element Found:::
+cked on element with locator: //div[contains(@class, "modal-footer")]/button locatorType: xpath

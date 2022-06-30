@@ -1,0 +1,40 @@
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: div[class='site_container'] img[alt='Fat Cat QA - Automation by the standard.'] and  locatorType: css
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: ul[class='navPages nav navbar-nav'] li[class='moduleMenu active'] span[class='txt-container'] and  locatorType: css
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //ul[@class='navPages nav navbar-nav']//span[@class='txt-container'][normalize-space()='Services'] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //*[@id="top-menu"]/ul[1]/li[3]/a/span and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //*[@id="top-menu"]/ul[1]/li[4]/a/span and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //*[@id="top-menu"]/ul[1]/li[5]/a/span and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //*[@id="top-menu"]/ul[1]/li[4]/a/span and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:52 Clicked on element with locator: //*[@id="top-menu"]/ul[1]/li[4]/a/span locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //*[contains(text(), "Belgrade, Serbia")] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //div[contains(@class, "col-md-5")]/ul[2]/li[1] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //*[contains(text(), "radovanmitrovic.qa@gmail.com")] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //*[contains(text(), "https://www.linkedin.com/in/radovan-mitrovic-a84a6096/")] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //input[@name="contact_name"] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:63 Sent data on element with locator: //input[@name="contact_name"] locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //input[@name="contact_phone"] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:63 Sent data on element with locator: //input[@name="contact_phone"] locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //input[@name="contact_email"] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:63 Sent data on element with locator: //input[@name="contact_email"] locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //textarea[@name="contact_message"] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:63 Sent data on element with locator: //textarea[@name="contact_message"] locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //button[contains(@class, "btn-primary")] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:52 Clicked on element with locator: //button[contains(@class, "btn-primary")] locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //h4[contains(@class, "modal-title")] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //div[contains(@class, "bootbox-body")] and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //div[contains(@class, "modal-footer")]/button and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ContactPage:selenium_driver.py:41 Element found with locator: //div[contains(@class, "modal-footer")]/button and  locatorType: xpath
+[32mINFO    [0m ContactPage:selenium_driver.py:52 Clicked on element with locator: //div[contains(@class, "modal-footer")]/button locatorType: xpath

@@ -1,0 +1,20 @@
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: div[class='site_container'] img[alt='Fat Cat QA - Automation by the standard.'] and  locatorType: css
+[32mINFO    [0m ServicesPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: ul[class='navPages nav navbar-nav'] li[class='moduleMenu active'] span[class='txt-container'] and  locatorType: css
+[32mINFO    [0m ServicesPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: //ul[@class='navPages nav navbar-nav']//span[@class='txt-container'][normalize-space()='Services'] and  locatorType: xpath
+[32mINFO    [0m ServicesPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: //*[@id="top-menu"]/ul[1]/li[3]/a/span and  locatorType: xpath
+[32mINFO    [0m ServicesPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: div[id='websiteHeader'] li:nth-child(4) a:nth-child(1) span:nth-child(1) and  locatorType: css
+[32mINFO    [0m ServicesPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: //*[@id="top-menu"]/ul[1]/li[5]/a/span and  locatorType: xpath
+[32mINFO    [0m ServicesPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: //ul[@class='navPages nav navbar-nav']//span[@class='txt-container'][normalize-space()='Services'] and  locatorType: xpath
+[32mINFO    [0m ServicesPage:selenium_driver.py:52 Clicked on element with locator: //ul[@class='navPages nav navbar-nav']//span[@class='txt-container'][normalize-space()='Services'] locatorType: xpath
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: (//SPAN[@class='fa-stack fa-4x img-circle bgLazyload entered loaded'])[1] and  locatorType: xpath
+[32mINFO    [0m ServicesPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: /html/body/div[2]/div[3]/div/section[1]/div[2]/div/div[2]/div[2]/div/span and  locatorType: xpath
+[32mINFO    [0m ServicesPage:selenium_driver.py:74 Element Found:::
+[32mINFO    [0m ServicesPage:selenium_driver.py:41 Element found with locator: //div[@id='s123PjaxMainContainer']//div[3]//div[1]//span[1] and  locatorType: xpath
+[32mINFO    [0m ServicesPage:selenium_driver.py:74 Element Found:::
