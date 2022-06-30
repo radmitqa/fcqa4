@@ -1,0 +1,25 @@
+Getting Started
+---------------
+
+The purpose of this document is to provide technical details of the FCQA4 project. 
+
+The FCQA4 project is Python based project for running automation tests on www.fatcatqa.com website under Pycharm tool. The output is  the HTML report file with status checks on all pages, controls and tags on website.
+To setup the project on your PC you should have Python ver. 3.10 and Pycharm (Community edition) tool installed. 
+
+The architecture and structure of the project is the Page Object Model (POM) based with defined 'pages' and 'tests' packages following up the website architecture we are about to test following the rule 'One Page = One Class'. The Framework is centralized system made of packages and directories supporting the tests and browsers used for test run.
+
+The Framework contains the 'base' package with basepage, selenium_driver and webdriver_factory py files. This package defines the rules on initializing tests and methods used to check, collect elements and perform actions. The 'utilities' package contains rules on test reporting and helper methods. The 'pages' package contains pages we are using to test with defined libraries, log reporting rules, page elements and methods. The 'tests' package contains tests we perform on pages, setup and teardown methods, conftest file and test suite or test collection file on which we define test cases/test suites we will run. The framework contains directories such as allure_reports for storing and generating reports under Allure plugin, reports dir for low-level logs and helper files on project root such as requirements.txt, htmlreport.html generated after test run and geckdriver.log.
+
+The mandatory step for running tests is to create a folder 'drivers' directly on your C drive (C:\\drivers) and add the latest drivers for Chrome and Firefox, just make sure that driver versions matching with browser versions you have on your PC.
+
+
+Naming conventions
+------------------
+Packages and pages are low case with the underscore and class names are camel cases. The .py files in pages package are ending with 'page'. The .py files in 'tests' package are starting with the 'test_', method names are camel cases.
+
+
+Running and Reporting
+---------------------
+One way to run test collection is to start up Pycharm Terminal, navigate to FCQA4 and type: 'py.test -v -s .\tests\test_suite_sample.py --html=htmlreport.html'. This action will start up your Firefox browser and the output is htmlreport.html file generated on the project root.
+To run test suite on home page (with one test case) is to type: ' pytest -v -s --alluredir=".\allure-reports" .\tests\test_home_page.py --browser chrome'. The Chrome browser will start, navigate you to home page, verify page elements, press 'SERVICES' button on Top Bar and close browser down. To generate allure type reports onetest case run you should type on Terminal: ' allure serve "./allure_reports"' and navigate to the URL displayed on message such as: '...open it manually http://192.168.0.12:59011/'.  
+   
